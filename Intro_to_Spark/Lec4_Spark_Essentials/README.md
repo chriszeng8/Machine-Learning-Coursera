@@ -1,3 +1,7 @@
+Notes taken from edX: Introduction to Spark from BerkeleyX
+Chris Zeng
+Jun, 2015
+
 ###Objective
 * Programming Spark
 * Resilient Distributed Datasets (RDDs)
